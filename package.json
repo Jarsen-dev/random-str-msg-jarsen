@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-jarsen",
+  "version": "1.0.0",
+  "description": "Random String Messages, a project from npm course in Platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarsen-dev/random-str-msg-jarsen.git"
+  },
+  "keywords": [],
+  "author": "Armando Álvarez <joseaat18@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarsen-dev/random-str-msg-jarsen/issues"
+  },
+  "homepage": "https://github.com/Jarsen-dev/random-str-msg-jarsen#readme",
+  "bin": {
+    "random-str-msg-jarsen": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
